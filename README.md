@@ -32,12 +32,14 @@ cd password-manager-blockchain
 2) Install dependencies
 pip install cryptography
 
-30 Run the app
+3) Run the app
 python main.py
 
 ## 🧪 Commands
 Add Password – Encrypts and adds a new site login
+
 View Passwords – Decrypts and shows all saved logins
+
 Verify Blockchain Integrity – Confirms no tampering
 
 ## ⚠️ Disclaimer
