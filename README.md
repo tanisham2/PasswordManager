@@ -18,15 +18,15 @@ A lightweight command-line password manager secured with blockchain integrity an
 ##  📦 Project Structure
 PasswordManager_Proj/
 
-├── main.py                       #CLI logic and main menu
+├── main.py                       -CLI logic and main menu
 
-├── blockchain.py                 #Blockchain and Block class
+├── blockchain.py                 -Blockchain and Block class
 
-├── crypto.py                     #Encryption/decryption helpers
+├── crypto.py                     -Encryption/decryption helpers
 
 ├── data/
 
-│   └── blockchain.json           #Encrypted password blockchain
+│   └── blockchain.json           -Encrypted password blockchain
 
 └── README.md
 
